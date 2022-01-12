@@ -1,0 +1,11 @@
+%DIR%.bak
+%DIR%.old
+%DIR%.tar
+%DIR%.tar.gz
+%DIR%.tgz
+%DIR%.txt
+%DIR%.zip
+%DIR%.rar
+%DIR%.sql
+%DIR%.cvs
+%DIR%.csv
