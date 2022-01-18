@@ -73,6 +73,14 @@
 备份.tar
 备份.tar.gz
 备份.zip
+a.7z
+a.zip
+a.rar
+a.sql
+a.tar
+a.tar.bz2
+a.tar.gz
+a.txt
 acceptance_config.yml
 access.1
 access.log
