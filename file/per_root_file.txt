@@ -858,7 +858,6 @@ fantastico_fileslist.txt
 fastlane/Preview.html
 fastlane/readme.md
 fastlane/report.xml
-favicon.ico
 features.json
 feedback_js.js
 filemanager/views/js/ZeroClipboard.swf
