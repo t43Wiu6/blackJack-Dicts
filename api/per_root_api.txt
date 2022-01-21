@@ -167,3 +167,12 @@ actuator/;/threaddump
 actuator/threaddump
 actuator/;/trace
 actuator/trace
+v1/api-docs
+v2/api-docs
+v3/api-docs
+v4/api-docs
+v5/api-docs
+v6/api-docs
+v7/api-docs
+v8/api-docs
+v9/api-docs
